@@ -54,7 +54,7 @@ ophub_release_file="/etc/ophub-release"
 # Set the default for downloading kernel sources from github.com
 repo_owner="unifreq"
 repo_branch="main"
-build_kernel=("6.1.1" "5.15.1")
+build_kernel=("6.2.0" "6.1.1" "5.15.1")
 auto_kernel="true"
 custom_name="-ophub"
 # Set the kernel compile object, options: dtbs / all
